@@ -1,2 +1,1 @@
-# GMD-Bible-Verse-Search/index.html 
-This web is designed to brings you Bible verses after just typing book, chapter and verse.  It displays the text seamlessly with just one click. 
+Bible Verse Search App is a simple web application that allows users to search and view Bible verses instantly using a public API. It provides a clean, responsive interface for quick scripture lookup across different books of the Bible.
